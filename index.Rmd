@@ -1,0 +1,45 @@
+---
+title: "Babette Burnett"
+description: |
+  Welcome to the website. I hope you enjoy it!
+  PSY150 class!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+``` 
+## Welcome
+
+Hi! My name is Babette. I am a student at Santa Barbara City College.
+I am interested in PSY 150.
+
+## A question I care about
+
+Write two or three sentences about a question, issue, or topic that matters
+to you. Explain why it is interesting or important.
+
+## Something I have learned with data
+
+Write two or three sentences about one idea or skill from PSY 150 that you
+could explain to someone outside this class.
+
+[See my work on GitHub](https://github.com/YOUR-USERNAME)
+
+```{r, echo=FALSE}
+
+hist(
+  mtcars$mpg,
+  main = "Miles per gallon in the mtcars data",
+  xlab = "Miles per gallon",
+  col = "#7FC8C2",
+  border = "white"
+)
+```
+

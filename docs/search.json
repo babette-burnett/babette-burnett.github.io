@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2026-11-25T19:50:38+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Babette Burnett",
+      "description": "Welcome to the website. I hope you enjoy it!\nPSY150 class!\n",
+      "author": [],
+      "contents": "\nWelcome\nHi! My name is Babette. I am a student at Santa Barbara City College.\nI am interested in PSY 150.\nA question I care about\nWrite two or three sentences about a question, issue, or topic that matters\nto you. Explain why it is interesting or important.\nSomething I have learned with data\nWrite two or three sentences about one idea or skill from PSY 150 that you\ncould explain to someone outside this class.\nSee my work on GitHub\n\n\n\n\n\n\n",
+      "last_modified": "2026-11-25T19:50:39+00:00"
+    }
+  ],
+  "collections": []
+}
